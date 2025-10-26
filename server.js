@@ -9,7 +9,7 @@ app.use(express.json());
 // GANTI dengan kredensial Antares Anda!
 const ANTARES_CONFIG = {
   url: 'http://platform.antares.id:8080/~/antares-cse/antares-id/Senssuhu/esp32',
-  accessKey: 'GANTI_DENGAN_ID:PASSWORD_ANDA', // GANTI!
+  accessKey: '36ff4748b33266de:d965e2cba023782f', // GANTI!
   appName: 'Senssuhu',
   deviceName: 'esp32'
 };
