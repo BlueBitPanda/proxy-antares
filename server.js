@@ -35,7 +35,7 @@ app.post('/forward', async (req, res) => {
       antaresPayload,
       {
         headers: {
-          'X-M2M-Origin': ANTARES_CONFIG.accessKey,
+          'X-M2M-Origin': 36ff4748b33266de:d965e2cba023782f,
           'Content-Type': 'application/json;ty=4',
           'Accept': 'application/json'
         },
